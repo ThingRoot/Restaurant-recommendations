@@ -20,6 +20,8 @@ media/
 staticfiles/
 static/*
 !static/js/
+!static/배경.jpg
+!static/z.png
 
 .idea/
 .vscode/
