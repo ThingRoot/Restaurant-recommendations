@@ -15,7 +15,6 @@ env.bak/
 venv.bak/
 
 *.log
-settings.py
 db.sqlite3
 media/
 staticfiles/
