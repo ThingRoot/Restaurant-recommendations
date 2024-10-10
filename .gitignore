@@ -22,6 +22,7 @@ static/*
 !static/js/
 !static/배경.jpg
 !static/z.png
+!board/static/style.css
 
 .idea/
 .vscode/
